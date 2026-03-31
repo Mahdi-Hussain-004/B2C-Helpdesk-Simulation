@@ -16,7 +16,7 @@ Replaced standard internal ITIL categories with external, app-specific categorie
 * **Custom Fields:** User Account ID, Device OS.
 
 ![Helpdesk Dashboard](assets/blank-dashboard.png)
-*(Note: Upload your custom categories screenshot here)*
+
 
 ---
 
